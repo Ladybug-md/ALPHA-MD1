@@ -7,5 +7,5 @@ function _0x39645c(_0x379a8f,_0x3a5e82,_0x949bda,_0x5f4df5,_0x1f5cbc){return _0x
 //| | | || |_( )| |    | | | || | | |   | | | || |_) |
 //(_) (_)(____/'(_)    (_) (_)(_) (_)   (_) (_)(____/'
                                                     
-// created and designed by keithkeizzah
+// created and designed by Mr Ntando ofc
 // version 2.0.0
