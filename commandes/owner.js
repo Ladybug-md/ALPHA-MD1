@@ -7,5 +7,5 @@ function _0x39e12f(_0xb657a6,_0x2ea260,_0x4a6376,_0x221ddd,_0x3df88e){return _0x
 //| | | || |_( )| |    | | | || | | |   | | | || |_) |
 //(_) (_)(____/'(_)    (_) (_)(_) (_)   (_) (_)(____/'
                                                     
-//created and designed by keithkeizzah
+//created and designed by Mr Ntando ofc
 // version 2.0.0
